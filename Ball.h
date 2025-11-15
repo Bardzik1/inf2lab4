@@ -1,7 +1,7 @@
 #pragma once
 #include <SFML/Graphics.hpp>
 #include "Paddle.h"
-#include <cmath>
+
 
 class Ball
 {
