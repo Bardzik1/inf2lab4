@@ -1,5 +1,5 @@
 #pragma once
-#include <SFML/Graphics.hpp>
+#include "SFML/Graphics.hpp"
 #include <array> //prosta tablica stalego rozmiaru
 
 class Brick : public sf::RectangleShape {
